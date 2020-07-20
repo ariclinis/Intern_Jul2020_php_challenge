@@ -25,7 +25,7 @@ Let me give you a summary of what you should do.
 
 You will work with the following data structure:
 
-![d](/Users/simaonovais/Desktop/desafio_debtges/media/MovieStructure.png)
+![d](media/MovieStructure.png)
 
 
 
