@@ -1,5 +1,7 @@
 # DebtGes Intern Software Engineer - PHP Challenge
 
+Welcome to the PHP challenge!
+
 # Background
 
 Hello there. Thanks for helping with that Patterson issue, that was very helpful!
