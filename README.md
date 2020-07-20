@@ -139,7 +139,7 @@ You have until Monday 27th July at 20:00H to deliver your project.
 
 # How to deliver
 
-Create a github repository with your project and work there. As soon as you have a repo ready send an email to sg.goncalves@campus.fct.unl.pt titled "REPO FOR PHP CHALLENGE - <FirstName LastName>" with the link in the body.
+Create a github repository with your project and work there. As soon as you have a repo ready send an email to the organizer titled "REPO FOR PHP CHALLENGE - <FirstName LastName>" with the link in the body.
 
 # Grading
 
